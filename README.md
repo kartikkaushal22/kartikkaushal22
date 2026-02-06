@@ -16,6 +16,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13c9BnDVH0B4pzsrrGV_74cBfJQ_R7KTg/view?usp=sharing](https://drive.google.com/file/d/13c9BnDVH0B4pzsrrGV_74cBfJQ_R7KTg/view?usp=sharing)
 
-- ⚡ Fun fact **It's easy to understand code then to write**
+- ⚡ Fun fact ****
 
 <h3 align="left">Connect with me:</h3>
